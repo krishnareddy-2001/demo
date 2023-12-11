@@ -1,6 +1,8 @@
 # demo
 ```
 sudo su
+```
+```
 apt-get update && apt-get install -y apt-transport-https ca-certificates curl
 sudo curl -fsSLo /usr/share/keyrings/kubernetes-archive-keyring.gpg https://dl.k8s.io/apt/doc/apt-key.gpg
 ```
